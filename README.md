@@ -1,2 +1,2 @@
 # PROG
-blablabla
+JS programmation exercices
