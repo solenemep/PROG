@@ -11,3 +11,5 @@ const crackme2 = (password) => {
 }
 
 crackme2(password)
+
+test
